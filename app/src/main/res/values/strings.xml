@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ptptn</string>
+    <string name="ptptn">PTPTN</string>
+    <string name="studentID">Student ID</string>
+    <string name="editStudentID">StudentID</string>
+    <string name="institutionName">Institution</string>
+    <string name="program">Program</string>
+    <string name="cgpa">CGPA</string>
+    <string name="reset">Reset</string>
+    <string name="check">Check</string>
+    <string name="aboutUS">About Us</string>
+    <string-array name="nameInstitution">
+        <item>TARUMT</item>
+        <item>UNI KL</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="Program">
+        <item>Degree</item>
+        <item>Diploma</item>
+        <item>Others</item>
+    </string-array>
+    <string name="error">Cannot be Empty</string>
+    <string name="result">Result</string>
+    <string-array name="cgpa">
+        <item>3.5000 - 4.0000</item>
+        <item>3.0000 - 3.4999</item>
+        <item>2.2000 - 2.9999</item>
+        <item>2.0000 - 2.1999</item>
+    </string-array>
+    <string name="qualify">Qualify for Scholar</string>
+    <string name="disqualify">Disqualify for Scholar</string>
+    <string name="classOfHonour">Classification of Honour</string>
+</resources>
